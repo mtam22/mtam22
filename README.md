@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mtam22
 - 👀 I’m interested in Quantitative Life Sciences & Chemistry
-- 🌱 I’m currently learning Data Analysis in Python
+- 🌱 I’m currently learning Machine Learning Applications with PyTorch
 
 <!---
 mtam22/mtam22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
